@@ -1,0 +1,355 @@
+{
+    "rows": [
+        {
+            "songID": 1,
+            "title": "Feel No Ways",
+            "genre": "Hip-Hop/Rap",
+            "albumID": 1,
+            "artistID": 1
+        },
+        {
+            "songID": 2,
+            "title": "One Dance",
+            "genre": "Hip-Hop/Rap",
+            "albumID": 1,
+            "artistID": 1
+        },
+        {
+            "songID": 3,
+            "title": "God's Plan ",
+            "genre": "Hip-Hop/Rap",
+            "albumID": 2,
+            "artistID": 1
+        },
+        {
+            "songID": 4,
+            "title": "Nonstop",
+            "genre": "Hip-Hop/Rap",
+            "albumID": 2,
+            "artistID": 1
+        },
+        {
+            "songID": 5,
+            "title": "Headlines",
+            "genre": "Hip-Hop/Rap",
+            "albumID": 3,
+            "artistID": 1
+        },
+        {
+            "songID": 6,
+            "title": "Marvins Room",
+            "genre": "Hip-Hop/Rap",
+            "albumID": 3,
+            "artistID": 1
+        },
+        {
+            "songID": 7,
+            "title": "Know Youself",
+            "genre": "Hip-Hop/Rap",
+            "albumID": 4,
+            "artistID": 1
+        },
+        {
+            "songID": 8,
+            "title": "Energy",
+            "genre": "Hip-Hop/Rap",
+            "albumID": 4,
+            "artistID": 1
+        },
+        {
+            "songID": 9,
+            "title": "Daddy Issues",
+            "genre": "Alternative",
+            "albumID": 5,
+            "artistID": 2
+        },
+        {
+            "songID": 10,
+            "title": "Single",
+            "genre": "Alternative",
+            "albumID": 5,
+            "artistID": 2
+        },
+        {
+            "songID": 11,
+            "title": "Sweater Weather",
+            "genre": "Alternative",
+            "albumID": 6,
+            "artistID": 2
+        },
+        {
+            "songID": 12,
+            "title": "Flawless",
+            "genre": "Alternative",
+            "albumID": 6,
+            "artistID": 2
+        },
+        {
+            "songID": 13,
+            "title": "3500",
+            "genre": "Hip-Hop/Rap",
+            "albumID": 7,
+            "artistID": 3
+        },
+        {
+            "songID": 14,
+            "title": "Nightcrawler ",
+            "genre": "Hip-Hop/Rap",
+            "albumID": 7,
+            "artistID": 3
+        },
+        {
+            "songID": 15,
+            "title": "Goosebumps",
+            "genre": "Hip-Hop/Rap",
+            "albumID": 8,
+            "artistID": 3
+        },
+        {
+            "songID": 16,
+            "title": "beibs in the trap",
+            "genre": "Hip-Hop/Rap",
+            "albumID": 8,
+            "artistID": 3
+        },
+        {
+            "songID": 17,
+            "title": "SICKO MODE",
+            "genre": "Hip-Hop/Rap",
+            "albumID": 9,
+            "artistID": 3
+        },
+        {
+            "songID": 18,
+            "title": "YOSEMITE",
+            "genre": "Hip-Hop/Rap",
+            "albumID": 9,
+            "artistID": 3
+        },
+        {
+            "songID": 19,
+            "title": "Sign of the Times",
+            "genre": "Pop",
+            "albumID": 10,
+            "artistID": 4
+        },
+        {
+            "songID": 20,
+            "title": "Sweet Creature",
+            "genre": "Pop",
+            "albumID": 10,
+            "artistID": 4
+        },
+        {
+            "songID": 21,
+            "title": "Watermelon Sugar",
+            "genre": "Pop",
+            "albumID": 11,
+            "artistID": 4
+        },
+        {
+            "songID": 22,
+            "title": "Adore You",
+            "genre": "Pop",
+            "albumID": 11,
+            "artistID": 4
+        },
+        {
+            "songID": 23,
+            "title": "Live For",
+            "genre": "R&B/Soul",
+            "albumID": 12,
+            "artistID": 5
+        },
+        {
+            "songID": 24,
+            "title": "Pretty",
+            "genre": "R&B/Soul",
+            "albumID": 12,
+            "artistID": 5
+        },
+        {
+            "songID": 25,
+            "title": "Often",
+            "genre": "R&B/Soul",
+            "albumID": 13,
+            "artistID": 5
+        },
+        {
+            "songID": 26,
+            "title": "The Hills",
+            "genre": "R&B/Soul",
+            "albumID": 13,
+            "artistID": 5
+        },
+        {
+            "songID": 27,
+            "title": "Party Monster",
+            "genre": "R&B/Soul",
+            "albumID": 14,
+            "artistID": 5
+        },
+        {
+            "songID": 28,
+            "title": "Remider",
+            "genre": "R&B/Soul",
+            "albumID": 14,
+            "artistID": 5
+        },
+        {
+            "songID": 29,
+            "title": "Blinding Lights ",
+            "genre": "R&B/Soul",
+            "albumID": 15,
+            "artistID": 5
+        },
+        {
+            "songID": 30,
+            "title": "After Hours",
+            "genre": "R&B/Soul",
+            "albumID": 15,
+            "artistID": 5
+        },
+        {
+            "songID": 31,
+            "title": "Blank Space",
+            "genre": "Pop",
+            "albumID": 16,
+            "artistID": 6
+        },
+        {
+            "songID": 32,
+            "title": "Shake It Off",
+            "genre": "Pop",
+            "albumID": 16,
+            "artistID": 6
+        },
+        {
+            "songID": 33,
+            "title": "Lover",
+            "genre": "Pop",
+            "albumID": 17,
+            "artistID": 6
+        },
+        {
+            "songID": 34,
+            "title": "The Man",
+            "genre": "Pop",
+            "albumID": 17,
+            "artistID": 6
+        },
+        {
+            "songID": 35,
+            "title": "the 1",
+            "genre": "Alternative",
+            "albumID": 18,
+            "artistID": 6
+        },
+        {
+            "songID": 36,
+            "title": "exile",
+            "genre": "Alternative",
+            "albumID": 18,
+            "artistID": 6
+        },
+        {
+            "songID": 37,
+            "title": "We Will Rock You",
+            "genre": "Rock",
+            "albumID": 19,
+            "artistID": 7
+        },
+        {
+            "songID": 38,
+            "title": "We Are the Champions",
+            "genre": "Rock",
+            "albumID": 19,
+            "artistID": 7
+        },
+        {
+            "songID": 39,
+            "title": "Bohemian Rhapsody",
+            "genre": "Rock",
+            "albumID": 20,
+            "artistID": 7
+        },
+        {
+            "songID": 40,
+            "title": "Sweet Lady",
+            "genre": "Rock",
+            "albumID": 20,
+            "artistID": 7
+        },
+        {
+            "songID": 41,
+            "title": "ON",
+            "genre": "K-Pop",
+            "albumID": 21,
+            "artistID": 8
+        },
+        {
+            "songID": 42,
+            "title": "UGH!",
+            "genre": "K-Pop",
+            "albumID": 21,
+            "artistID": 8
+        },
+        {
+            "songID": 43,
+            "title": "White Iverson",
+            "genre": "Hip-Hop/Rap",
+            "albumID": 22,
+            "artistID": 9
+        },
+        {
+            "songID": 44,
+            "title": "Go Flex",
+            "genre": "Hip-Hop/Rap",
+            "albumID": 22,
+            "artistID": 9
+        },
+        {
+            "songID": 45,
+            "title": "Enimies",
+            "genre": "Hip-Hop/Rap",
+            "albumID": 23,
+            "artistID": 9
+        },
+        {
+            "songID": 46,
+            "title": "Circles",
+            "genre": "Hip-Hop/Rap",
+            "albumID": 23,
+            "artistID": 9
+        },
+        {
+            "songID": 47,
+            "title": "idontwannabeyouanymore",
+            "genre": "Alternative",
+            "albumID": 24,
+            "artistID": 10
+        },
+        {
+            "songID": 48,
+            "title": "ocean eyes",
+            "genre": "Alternative",
+            "albumID": 24,
+            "artistID": 10
+        },
+        {
+            "songID": 49,
+            "title": "bad guy",
+            "genre": "Alternative",
+            "albumID": 25,
+            "artistID": 10
+        },
+        {
+            "songID": 50,
+            "title": "when the party's over",
+            "genre": "Alternative",
+            "albumID": 25,
+            "artistID": 10
+        }
+    ],
+    "err": ""
+}
